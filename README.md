@@ -7,6 +7,7 @@ Product specification / Техническое задание, draft 0.1, 2026-1
 - [Проверенные источники / Verified sources](docs/SOURCES.md)
 - [Правила работы и проектные Skills / Project instructions and skills](AGENTS.md)
 - [Дизайн Emerald & Gold / Design concept](docs/design/README.md)
+- [Penpot — Emerald & Gold v1](https://design.penpot.app/#/workspace?team-id=17193a1f-939a-80b5-8008-c5cb27c70f56&file-id=52a5041f-08a1-80f1-8008-c5cb91e87f3d&page-id=52a5041f-08a1-80f1-8008-c5cb91e87f3e) — требуется доступ / authorized access required.
 
 The app has not been implemented. These documents capture the requirements interview and proposed implementation rules. Matching requirement IDs link the two language versions. Confirmed requirements, proposals and research gates are explicitly distinguished.
 

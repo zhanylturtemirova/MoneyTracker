@@ -6,9 +6,11 @@
 - [Russian requirements / ТЗ на русском](../SPEC.ru.md)
 - [English requirements / ТЗ на английском](../SPEC.en.md)
 
-**Penpot file: pending upload after sign-in. No external design file has been created yet.**
+- [Penpot — MoneyTracker · Emerald & Gold v1](https://design.penpot.app/#/workspace?team-id=17193a1f-939a-80b5-8008-c5cb27c70f56&file-id=52a5041f-08a1-80f1-8008-c5cb91e87f3d&page-id=52a5041f-08a1-80f1-8008-c5cb91e87f3e)
 
-**Файл Penpot: ожидает входа и загрузки. Внешний файл дизайна пока не создан.**
+Uploaded to the MoneyTracker project in Personal Projects as a reference image. This editor link requires an authorized Penpot account; public sharing has not been enabled.
+
+Загружено в проект MoneyTracker в Personal Projects как изображение-референс. Ссылка редактора требует входа с доступом к файлу; публичный доступ не включён.
 
 ![MoneyTracker: Home, Activity, Assets and Plan](emerald-gold-v1.png)
 
