@@ -6,6 +6,7 @@ Product specification / Техническое задание, draft 0.1, 2026-1
 - [English specification](docs/SPEC.en.md)
 - [Проверенные источники / Verified sources](docs/SOURCES.md)
 - [Правила работы и проектные Skills / Project instructions and skills](AGENTS.md)
+- [Дизайн Emerald & Gold / Design concept](docs/design/README.md)
 
 The app has not been implemented. These documents capture the requirements interview and proposed implementation rules. Matching requirement IDs link the two language versions. Confirmed requirements, proposals and research gates are explicitly distinguished.
 
