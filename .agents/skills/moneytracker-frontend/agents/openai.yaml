@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoneyTracker Frontend"
+  short_description: "PWA, офлайн-ввод и интерфейс финансового учёта"
+  default_prompt: "Используй $moneytracker-frontend. Реализуй указанный клиентский сценарий MoneyTracker с офлайн-сохранением и обработкой ошибок."

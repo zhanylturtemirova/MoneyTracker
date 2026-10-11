@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoneyTracker Designer"
+  short_description: "Простые экраны бюджета, активов и финансовых целей"
+  default_prompt: "Используй $moneytracker-designer. Спроектируй указанный экран MoneyTracker с понятными суммами и состояниями ошибок."

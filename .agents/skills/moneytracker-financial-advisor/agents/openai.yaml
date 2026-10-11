@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoneyTracker Financial Advisor"
+  short_description: "Семейный бюджет, цели и сравнение условий брокеров"
+  default_prompt: "Используй $moneytracker-financial-advisor. Проанализируй финансовый вопрос с проверяемыми расчётами, допущениями и актуальными источниками."

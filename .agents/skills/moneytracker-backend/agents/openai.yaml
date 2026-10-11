@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoneyTracker Backend"
+  short_description: "Финансовая модель, API и семейная синхронизация"
+  default_prompt: "Используй $moneytracker-backend. Реализуй указанный контракт данных MoneyTracker и проверь финансовые инварианты."
