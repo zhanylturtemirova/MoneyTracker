@@ -26,6 +26,7 @@ RU and EN express the same requirements with matching IDs. Log and resolve trans
 | PR-07 | C/L | Start with a PWA; prepare for Google Play and App Store applications. Publication in both stores is a mandatory future stage. |
 | PR-08 | C/R | Support was requested for different models dating from 2015. Release year does not establish compatibility: a verified OS/browser/capability matrix is required; see section 12. |
 | PR-09 | C | Simple interface with few prominent numbers, cards, light/dark themes and system appearance. |
+| PR-10 | C | The user selected Next.js for the PWA. Initial implementation uses Next.js App Router, React and TypeScript with static export; backend selection remains separate. |
 
 Initial user context: Kyrgyz citizenship, Georgian tax residency, possible move to Austria, frequent travel. Do not infer tax residency from physical location. Automated tax calculations have not been agreed. These countries must not limit the product.
 
@@ -206,7 +207,7 @@ Browser storage can be cleared by the OS or user. Show sync/backup status; do no
 
 ## 12. Platforms, budget and architecture
 
-Proposed architecture: shared web UI, independent financial domain module, local database/sync queue, authorized cloud API and OCR/quote/notification adapters. Choose the frontend and cloud supplier after older-device and free-tier validation. Developer convenience alone must not determine the stack.
+Proposed architecture: shared web UI, independent financial domain module, local database/sync queue, authorized cloud API and OCR/quote/notification adapters. The user selected Next.js for the frontend (PR-10). Older-device compatibility and cloud supplier free-tier limits still require validation.
 
 | Capability | Modern supported platform | Older device/missing API |
 |---|---|---|
@@ -287,4 +288,4 @@ Each milestone ends with a demonstrated working flow and relevant acceptance che
 - Test formulas/invariants with the AC table, negative authorization cases and permitted anonymized real imports. Test UI on both operating systems and an older configuration.
 - Record requirement changes by ID and reason in both languages. Do not relabel P/R as C without evidence.
 - First-release completion requires M1–M3 working together, applicable AC passing, no household data leakage or double counting, known free quotas, disclosed device limits and verified export/restore.
-- Only specification drafting is complete. App implementation, OCR verification, broker connections, tariff analysis and publication have not been completed.
+- The specifications and an initial Next.js home-page demo with locally saved extra sample expenses are implemented. The full financial ledger, OCR verification, broker connections, tariff analysis and publication are not complete. See README for current commands and demo limitations.
